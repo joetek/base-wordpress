@@ -1,1 +1,2 @@
 wp-config.php
+wp-includes/sodium_compat/lib/php72compat_const.php
